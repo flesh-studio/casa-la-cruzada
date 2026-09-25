@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flesh-studio.github.io/casa-la-cruzada/sitemap.xml
